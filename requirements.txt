@@ -2,3 +2,5 @@ zappa
 flask
 sqlalchemy
 pymysql
+flask_sqlalchemy
+logging
