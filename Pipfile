@@ -11,6 +11,9 @@ Flask = "*"
 SQLAlchemy = "*"
 PyMySQL = "*"
 Flask-SQLAlchemy = "*"
+flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+authlib = "*"
 
 [requires]
 python_version = "3.7"
